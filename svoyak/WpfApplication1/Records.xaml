@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplication1.Records"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Records" Height="300" Width="300" xmlns:my="clr-namespace:WpfApplication1" Loaded="Window_Loaded">
+    <Window.Resources>
+        <my:Database1DataSet x:Key="database1DataSet" />
+        <CollectionViewSource x:Key="mainTableViewSource" Source="{Binding Path=MainTable, Source={StaticResource database1DataSet}}" />
+    </Window.Resources>
+    <Grid DataContext="{StaticResource mainTableViewSource}">
+        <DataGrid AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Name="mainTableDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="iDColumn" Binding="{Binding Path=ID}" Header="ID" IsReadOnly="True" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="счетColumn" Binding="{Binding Path=Счет}" Header="Счет" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="имя_игрокаColumn" Binding="{Binding Path=Имя игрока}" Header="Имя игрока" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="имя_пакетаColumn" Binding="{Binding Path=Имя пакета}" Header="Имя пакета" Width="SizeToHeader" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

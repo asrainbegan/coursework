@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <puck>
+    <type>Текстовый</type>
+    <question>Назовите номер углерода в таблице Менделеева.</question>
+    <coast>100</coast>
+    <answer>6</answer>
+  </puck>
+  <puck>
+    <type>С картинкой</type>
+    <question>Назовите название картины.</question>
+    <link>opyatdvoika.jpg</link>
+    <coast>200</coast>
+    <answer>Опять двойка!</answer>
+  </puck>
+  <puck>
+    <type>Аудио</type>
+    <question>Прослушайте отрывок музыкального произведения и назовите его.</question>
+    <link>moon.mp3</link>
+    <coast>300</coast>
+    <answer>Лунная соната</answer>
+  </puck>
+  <puck>
+    <type>Видео</type>
+    <question>Назовите название сериала, из которого вырезон этот отрывок.</question>
+    <link>ivar2.mp4</link>
+    <coast>400</coast>
+    <answer>Викинги</answer>
+  </puck>
+</NewDataSet>

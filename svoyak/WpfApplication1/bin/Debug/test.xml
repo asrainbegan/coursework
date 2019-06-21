@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <puck>
+    <type>Текстовый</type>
+    <question>Каким по счету элементом является углерод в таблице Менделеева?</question>
+    <coast>100</coast>
+    <answer>6</answer>
+  </puck>
+  <puck>
+    <type>С картинкой</type>
+    <question>Назовите название картины.</question>
+    <link>\\opyat_dvoika.jpg</link>
+    <coast>200</coast>
+    <answer>Опять двойка!</answer>
+  </puck>
+  <puck>
+    <type>Аудио</type>
+    <question>Прослушайте отрывок произведения и назовите его.</question>
+    <link>\\moon.mp3</link>
+    <coast>300</coast>
+    <answer>Лунная соната</answer>
+  </puck>
+  <puck>
+    <type>Видео</type>
+    <question>Просмотрите отрывок и назовите из какого он фильма.</question>
+    <link>\\lotr.webm</link>
+    <coast>400</coast>
+    <answer>Властелин колец</answer>
+  </puck>
+</NewDataSet>
