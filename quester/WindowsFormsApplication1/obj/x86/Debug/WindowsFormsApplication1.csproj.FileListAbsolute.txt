@@ -1,0 +1,50 @@
+C:\Users\minor\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\minor\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\minor\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\minor\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\minor\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\minor\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\minor\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+X:\subd\cursach\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+X:\subd\cursach\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+X:\subd\cursach\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+X:\subd\cursach\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+X:\subd\cursach\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+X:\subd\cursach\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+X:\subd\cursach\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+X:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+X:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+X:\subd\cursach\quester\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+X:\subd\cursach\quester\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+X:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+X:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+X:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+X:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\subd\cursach\quester\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\subd\cursach\quester\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\курсовая\subd\cursach\quester\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\курсовая\subd\cursach\quester\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\курсовая\subd\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\БогдановКурсовая\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\БогдановКурсовая\cursach\quester\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
